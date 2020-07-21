@@ -1,0 +1,3 @@
+include ':app', ':spotify-app-remote-release-0.7.0'
+rootProject.name='YourTune'
+include ':spotify-app-remote'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourTune</string>
+    <string name="search_songs">Search Songs</string>
+    <string name="trending">Trending</string>
+</resources>
